@@ -8,6 +8,15 @@
 <body>
     <h1>Welcome to Michael Neel's Page</h1>
     <p>This is where you can learn more about me and my work experience.</p>
-    <img src="path_to_your_photo.jpg" alt="Photo of Michael Neel">
+    
+    <!-- Here is where you would put the img tag -->
+    <img src="https://github.com/13mikej/michaelneel.html/blob/main/beautynbeast.jpg?raw=true" alt="Beauty and the Beast">
+
+    <p>I enjoy many hobbies, including photography, hiking, and painting. Below is one of my favorite photos:</p>
+
+    <!-- Another place you could put the img tag if you want it further down the page -->
+    <img src="https://github.com/13mikej/michaelneel.html/blob/main/beautynbeast.jpg?raw=true" alt="Beauty and the Beast">
+
+    <p>Feel free to explore more about my interests and work experience!</p>
 </body>
 </html>
