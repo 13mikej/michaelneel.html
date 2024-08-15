@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Michael Neel's Page</title>
+</head>
+<body>
+    <h1>Welcome to Michael Neel's Page</h1>
+    <p>This is where you can learn more about me and my work experience.</p>
+    <img src="path_to_your_photo.jpg" alt="Photo of Michael Neel">
+</body>
+</html>
